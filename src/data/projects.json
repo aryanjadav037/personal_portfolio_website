@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Portfolio website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "I created personal portfolio website using React.js, featuring a responsive design to showcase my skills and projects.",
+    "skills": ["React"],
+    "source": "https://github.com/aryanjadav037/personal_portfolio_website"
+  },
+  {
+    "title": "Diabetes prediction",
+    "imageSrc": "projects/diabetes.png",
+    "description": "I built and deployed a diabetes prediction model using ML and Streamlit .",
+    "skills": ["python", "ML", "streamlit"],
+    "source": "https://github.com/aryanjadav037/diabetes-predication"
+  },
+  {
+    "title": "Quiz application",
+    "imageSrc": "projects/quiz.png",
+    "description": "This project is A basic Python quiz application with a `tkinter` GUI through multiple-choice questions.",
+    "skills": ["Python", "Json"],
+    "source": "https://github.com/aryanjadav037/quize_application"
+  }
+]
